@@ -20,7 +20,7 @@ for s in sentence:
 	token = s.split(' ')
 	t_count = 1
 	for t in token:
-		t_list.append([t_count, t, '\t_', '\t_', '\t_', '\t_', '\t_', '\t_', '\t_', '\t_'])
+		t_list.append([t_count, '\t', t, '\t_', '\t_', '\t_', '\t_', '\t_', '\t_', '\t_', '\t_'])
 		t_count = t_count + 1
 	s_count = s_count + 1
 	t_list.append(['\n'])	
