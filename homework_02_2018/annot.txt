@@ -1,0 +1,406 @@
+# sent_id = 1
+# text = Antoine Meillet:
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	Antoine	_	PROPN	_	_	_	_	_	_
+2	Meillet	_	PROPN	_	_	_	_	_	_
+3	:	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 2
+# text = Paul Jules Antoine Meillet, né le à Moulins (Allier) et mort le à Châteaumeillant (Cher), est le principal linguiste français des premières décennies du .
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	Paul	_	PROPN	_	_	_	_	_	_
+2	Jules	_	PROPN	_	_	_	_	_	_
+3	Antoine	_	PROPN	_	_	_	_	_	_
+4	Meillet	_	PROPN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	né	_	VERB	_	_	_	_	_	_
+7	le	_	DET	_	_	_	_	_	_
+8	à	_	ADP	_	_	_	_	_	_
+9	Moulins	_	PROPN	_	_	_	_	_	_
+10	(	_	PUNCT	_	_	_	_	_	_
+11	Allier	_	PROPN	_	_	_	_	_	_
+12	)	_	PUNCT	_	_	_	_	_	_
+13	et	_	CCONJ	_	_	_	_	_	_
+14	mort	_	VERB	_	_	_	_	_	_
+15	le	_	DET	_	_	_	_	_	_
+16	à	_	ADP	_	_	_	_	_	_
+17	Châteaumeillant	_	PROPN	_	_	_	_	_	_
+18	(	_	PUNCT	_	_	_	_	_	_
+19	Cher	_	PROPN	_	_	_	_	_	_
+20	)	_	PUNCT	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	est	_	VERB	_	_	_	_	_	_
+23	le	_	DET	_	_	_	_	_	_
+24	principal	_	ADJ	_	_	_	_	_	_
+25	linguiste	_	NOUN	_	_	_	_	_	_
+26	français	_	ADJ	_	_	_	_	_	_
+27	des	_	ADP	_	_	_	_	_	_
+28	premières	_	ADJ	_	_	_	_	_	_
+29	décennies	_	NOUN	_	_	_	_	_	_
+30	du	_	ADP	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 3
+# text = Il est aussi un fin philologue auquel aucun détail n'échappe.
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	Il	_	PRON	_	_	_	_	_	_
+2	est	_	VERB	_	_	_	_	_	_
+3	aussi	_	ADV	_	_	_	_	_	_
+4	un	_	DET	_	_	_	_	_	_
+5	fin	_	ADJ	_	_	_	_	_	_
+6	philologue	_	NOUN	_	_	_	_	_	_
+7	auquel	_	PRON	_	_	_	_	_	_
+8	aucun	_	PRON	_	_	_	_	_	_
+9	détail	_	NOUN	_	_	_	_	_	_
+10	n	_	PART	_	_	_	_	_	_
+11	'	_	PUNCT	_	_	_	_	_	_
+12	échappe	_	VERB	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 4
+# text = Biographie.
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	Biographie	_	NOUN	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 5
+# text = D'origine bourbonnaise, fils d'un notaire de Châteaumeillant (Cher), il fait ses études secondaires au lycée Théodore-de-Banville de Moulins.
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	D	_	ADP	_	_	_	_	_	_
+2	'	_	PUNCT	_	_	_	_	_	_
+3	origine	_	NOUN	_	_	_	_	_	_
+4	bourbonnaise	_	ADJ	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	fils	_	NOUN	_	_	_	_	_	_
+7	d	_	ADP	_	_	_	_	_	_
+8	'	_	PUNCT	_	_	_	_	_	_
+9	un	_	DET	_	_	_	_	_	_
+10	notaire	_	NOUN	_	_	_	_	_	_
+11	de	_	ADP	_	_	_	_	_	_
+12	Châteaumeillant	_	PROPN	_	_	_	_	_	_
+13	(	_	PUNCT	_	_	_	_	_	_
+14	Cher	_	PROPN	_	_	_	_	_	_
+15	)	_	PUNCT	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	il	_	PRON	_	_	_	_	_	_
+18	fait	_	VERB	_	_	_	_	_	_
+19	ses	_	DET	_	_	_	_	_	_
+20	études	_	NOUN	_	_	_	_	_	_
+21	secondaires	_	ADJ	_	_	_	_	_	_
+22	au	_	ADP	_	_	_	_	_	_
+23	lycée	_	NOUN	_	_	_	_	_	_
+24	Théodore-de-Banville	_	PROPN	_	_	_	_	_	_
+25	de	_	ADP	_	_	_	_	_	_
+26	Moulins	_	PROPN	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 6
+# text = Étudiant à la faculté des lettres de Paris à partir de 1885 où il suit notamment les cours de Louis Havet, il assiste également à ceux de Michel Bréal au Collège de France et de Ferdinand de Saussure à l'École pratique des hautes études.
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	Étudiant	_	ADV	_	_	_	_	_	_
+2	à	_	ADP	_	_	_	_	_	_
+3	la	_	DET	_	_	_	_	_	_
+4	faculté	_	NOUN	_	_	_	_	_	_
+5	des	_	ADP	_	_	_	_	_	_
+6	lettres	_	NOUN	_	_	_	_	_	_
+7	de	_	ADP	_	_	_	_	_	_
+8	Paris	_	PROPN	_	_	_	_	_	_
+9	à	_	ADP	_	_	_	_	_	_
+10	partir	_	VERB	_	_	_	_	_	_
+11	de	_	ADP	_	_	_	_	_	_
+12	1885	_	NUM	_	_	_	_	_	_
+13	où	_	SCONJ	_	_	_	_	_	_
+14	il	_	PRON	_	_	_	_	_	_
+15	suit	_	VERB	_	_	_	_	_	_
+16	notamment	_	ADV	_	_	_	_	_	_
+17	les	_	DET	_	_	_	_	_	_
+18	cours	_	NOUN	_	_	_	_	_	_
+19	de	_	ADP	_	_	_	_	_	_
+20	Louis	_	PROPN	_	_	_	_	_	_
+21	Havet	_	PROPN	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	il	_	PRON	_	_	_	_	_	_
+24	assiste	_	VERB	_	_	_	_	_	_
+25	également	_	ADV	_	_	_	_	_	_
+26	à	_	ADP	_	_	_	_	_	_
+27	ceux	_	DET	_	_	_	_	_	_
+28	de	_	ADP	_	_	_	_	_	_
+29	Michel	_	PROPN	_	_	_	_	_	_
+30	Bréal	_	PROPN	_	_	_	_	_	_
+31	au	_	ADP	_	_	_	_	_	_
+32	Collège	_	PROPN	_	_	_	_	_	_
+33	de	_	ADP	_	_	_	_	_	_
+34	France	_	PROPN	_	_	_	_	_	_
+35	et	_	CCONJ	_	_	_	_	_	_
+36	de	_	ADP	_	_	_	_	_	_
+37	Ferdinand	_	PROPN	_	_	_	_	_	_
+38	de	_	ADP	_	_	_	_	_	_
+39	Saussure	_	PROPN	_	_	_	_	_	_
+40	à	_	ADP	_	_	_	_	_	_
+41	l	_	DET	_	_	_	_	_	_
+42	'	_	PUNCT	_	_	_	_	_	_
+43	École	_	PROPN	_	_	_	_	_	_
+44	pratique	_	ADJ	_	_	_	_	_	_
+45	des	_	ADP	_	_	_	_	_	_
+46	hautes	_	ADJ	_	_	_	_	_	_
+47	études	_	NOUN	_	_	_	_	_	_
+48	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 7
+# text = Il assure à la suite de Saussure le cours de grammaire comparée, qu'il complète à partir de 1894 par une conférence sur l'iranien.
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	Il	_	PRON	_	_	_	_	_	_
+2	assure	_	VERB	_	_	_	_	_	_
+3	à	_	ADP	_	_	_	_	_	_
+4	la	_	DET	_	_	_	_	_	_
+5	suite	_	NOUN	_	_	_	_	_	_
+6	de	_	ADP	_	_	_	_	_	_
+7	Saussure	_	PROPN	_	_	_	_	_	_
+8	le	_	DET	_	_	_	_	_	_
+9	cours	_	NOUN	_	_	_	_	_	_
+10	de	_	ADP	_	_	_	_	_	_
+11	grammaire	_	NOUN	_	_	_	_	_	_
+12	comparée	_	ADJ	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	qu	_	SCONJ	_	_	_	_	_	_
+15	'	_	PUNCT	_	_	_	_	_	_
+16	il	_	PRON	_	_	_	_	_	_
+17	complète	_	VERB	_	_	_	_	_	_
+18	à	_	ADP	_	_	_	_	_	_
+19	partir	_	VERB	_	_	_	_	_	_
+20	de	_	ADP	_	_	_	_	_	_
+21	1894	_	NUM	_	_	_	_	_	_
+22	par	_	ADP	_	_	_	_	_	_
+23	une	_	DET	_	_	_	_	_	_
+24	conférence	_	NOUN	_	_	_	_	_	_
+25	sur	_	ADP	_	_	_	_	_	_
+26	l	_	DET	_	_	_	_	_	_
+27	'	_	PUNCT	_	_	_	_	_	_
+28	iranien	_	NOUN	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 8
+# text = En 1897, il soutient sa thèse pour le doctorat ès lettres "(Recherches sur l'emploi du génitif-accusatif en vieux-slave)".
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	En	_	ADP	_	_	_	_	_	_
+2	1897	_	NUM	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	il	_	PRON	_	_	_	_	_	_
+5	soutient	_	VERB	_	_	_	_	_	_
+6	sa	_	DET	_	_	_	_	_	_
+7	thèse	_	NOUN	_	_	_	_	_	_
+8	pour	_	ADP	_	_	_	_	_	_
+9	le	_	DET	_	_	_	_	_	_
+10	doctorat	_	NOUN	_	_	_	_	_	_
+11	ès	_	ADP	_	_	_	_	_	_
+12	lettres	_	NOUN	_	_	_	_	_	_
+13	"	_	PUNCT	_	_	_	_	_	_
+14	(	_	PUNCT	_	_	_	_	_	_
+15	Recherches	_	NOUN	_	_	_	_	_	_
+16	sur	_	ADP	_	_	_	_	_	_
+17	l	_	DET	_	_	_	_	_	_
+18	'	_	PUNCT	_	_	_	_	_	_
+19	emploi	_	NOUN	_	_	_	_	_	_
+20	du	_	ADP	_	_	_	_	_	_
+21	génitif-accusatif	_	NOUN	_	_	_	_	_	_
+22	en	_	ADP	_	_	_	_	_	_
+23	vieux-slave	_	NOUN	_	_	_	_	_	_
+24	)	_	PUNCT	_	_	_	_	_	_
+25	"	_	PUNCT	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 9
+# text = En 1905, il occupe la chaire de grammaire comparée au Collège de France, où il consacre ses cours à l'histoire et à la structure des langues indo-européennes.
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	En	_	ADP	_	_	_	_	_	_
+2	1905	_	NUM	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	il	_	PRON	_	_	_	_	_	_
+5	occupe	_	VERB	_	_	_	_	_	_
+6	la	_	DET	_	_	_	_	_	_
+7	chaire	_	NOUN	_	_	_	_	_	_
+8	de	_	ADP	_	_	_	_	_	_
+9	grammaire	_	NOUN	_	_	_	_	_	_
+10	comparée	_	ADJ	_	_	_	_	_	_
+11	au	_	ADP	_	_	_	_	_	_
+12	Collège	_	PROPN	_	_	_	_	_	_
+13	de	_	ADP	_	_	_	_	_	_
+14	France	_	PROPN	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	où	_	SCONJ	_	_	_	_	_	_
+17	il	_	PRON	_	_	_	_	_	_
+18	consacre	_	VERB	_	_	_	_	_	_
+19	ses	_	DET	_	_	_	_	_	_
+20	cours	_	NOUN	_	_	_	_	_	_
+21	à	_	ADP	_	_	_	_	_	_
+22	l	_	DET	_	_	_	_	_	_
+23	'	_	PUNCT	_	_	_	_	_	_
+24	histoire	_	NOUN	_	_	_	_	_	_
+25	et	_	CCONJ	_	_	_	_	_	_
+26	à	_	ADP	_	_	_	_	_	_
+27	la	_	DET	_	_	_	_	_	_
+28	structure	_	NOUN	_	_	_	_	_	_
+29	des	_	ADP	_	_	_	_	_	_
+30	langues	_	NOUN	_	_	_	_	_	_
+31	indo-européennes	_	ADJ	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 10
+# text = Il succéda au linguiste Auguste Carrière à la tête de la chaire d'arménien à l'École des langues orientales.
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	Il	_	PRON	_	_	_	_	_	_
+2	succéda	_	VERB	_	_	_	_	_	_
+3	au	_	ADP	_	_	_	_	_	_
+4	linguiste	_	NOUN	_	_	_	_	_	_
+5	Auguste	_	PROPN	_	_	_	_	_	_
+6	Carrière	_	PROPN	_	_	_	_	_	_
+7	à	_	ADP	_	_	_	_	_	_
+8	la	_	DET	_	_	_	_	_	_
+9	tête	_	NOUN	_	_	_	_	_	_
+10	de	_	ADP	_	_	_	_	_	_
+11	la	_	DET	_	_	_	_	_	_
+12	chaire	_	NOUN	_	_	_	_	_	_
+13	d	_	ADP	_	_	_	_	_	_
+14	'	_	PUNCT	_	_	_	_	_	_
+15	arménien	_	NOUN	_	_	_	_	_	_
+16	à	_	ADP	_	_	_	_	_	_
+17	l	_	DET	_	_	_	_	_	_
+18	'	_	PUNCT	_	_	_	_	_	_
+19	École	_	PROPN	_	_	_	_	_	_
+20	des	_	ADP	_	_	_	_	_	_
+21	langues	_	NOUN	_	_	_	_	_	_
+22	orientales	_	ADJ	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 11
+# text = Secrétaire de la Société de linguistique de Paris, il est élu à l'Académie des inscriptions et belles-lettres en 1924.
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	Secrétaire	_	NOUN	_	_	_	_	_	_
+2	de	_	ADP	_	_	_	_	_	_
+3	la	_	DET	_	_	_	_	_	_
+4	Société	_	PROPN	_	_	_	_	_	_
+5	de	_	ADP	_	_	_	_	_	_
+6	linguistique	_	ADJ	_	_	_	_	_	_
+7	de	_	ADP	_	_	_	_	_	_
+8	Paris	_	PROPN	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	il	_	PRON	_	_	_	_	_	_
+11	est	_	AUX	_	_	_	_	_	_
+12	élu	_	VERB	_	_	_	_	_	_
+13	à	_	ADP	_	_	_	_	_	_
+14	l	_	DET	_	_	_	_	_	_
+15	'	_	PUNCT	_	_	_	_	_	_
+16	Académie	_	PROPN	_	_	_	_	_	_
+17	des	_	ADP	_	_	_	_	_	_
+18	inscriptions	_	NOUN	_	_	_	_	_	_
+19	et	_	CCONJ	_	_	_	_	_	_
+20	belles-lettres	_	NOUN	_	_	_	_	_	_
+21	en	_	ADP	_	_	_	_	_	_
+22	1924	_	NUM	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 12
+# text = Il a formé toute une génération de linguistes français, parmi lesquels Émile Benveniste, Marcel Cohen, Georges Dumézil, André Martinet, Aurélien Sauvageot, Lucien Tesnière, Joseph Vendryes, ainsi que le japonisant Charles Haguenauer.
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	Il	_	PRON	_	_	_	_	_	_
+2	a	_	AUX	_	_	_	_	_	_
+3	formé	_	VERB	_	_	_	_	_	_
+4	toute	_	PRON	_	_	_	_	_	_
+5	une	_	DET	_	_	_	_	_	_
+6	génération	_	NOUN	_	_	_	_	_	_
+7	de	_	ADP	_	_	_	_	_	_
+8	linguistes	_	NOUN	_	_	_	_	_	_
+9	français	_	ADJ	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	parmi	_	ADV	_	_	_	_	_	_
+12	lesquels	_	PRON	_	_	_	_	_	_
+13	Émile	_	PROPN	_	_	_	_	_	_
+14	Benveniste	_	PROPN	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	Marcel	_	PROPN	_	_	_	_	_	_
+17	Cohen	_	PROPN	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	Georges	_	PROPN	_	_	_	_	_	_
+20	Dumézil	_	PROPN	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	André	_	PROPN	_	_	_	_	_	_
+23	Martinet	_	PROPN	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	Aurélien	_	PROPN	_	_	_	_	_	_
+26	Sauvageot	_	PROPN	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	Lucien	_	PROPN	_	_	_	_	_	_
+29	Tesnière	_	PROPN	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	Joseph	_	PROPN	_	_	_	_	_	_
+32	Vendryes	_	PROPN	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	ainsi	_	ADV	_	_	_	_	_	_
+35	que	_	SCONJ	_	_	_	_	_	_
+36	le	_	DET	_	_	_	_	_	_
+37	japonisant	_	NOUN	_	_	_	_	_	_
+38	Charles	_	PROPN	_	_	_	_	_	_
+39	Haguenauer	_	PROPN	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 13
+# text = Antoine Meillet devait diriger la thèse de Jean Paulhan sur la sémantique du proverbe et c'est lui qui découvrit Gustave Guillaume.
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	Antoine	_	PROPN	_	_	_	_	_	_
+2	Meillet	_	PROPN	_	_	_	_	_	_
+3	devait	_	VERB	_	_	_	_	_	_
+4	diriger	_	VERB	_	_	_	_	_	_
+5	la	_	DET	_	_	_	_	_	_
+6	thèse	_	NOUN	_	_	_	_	_	_
+7	de	_	ADP	_	_	_	_	_	_
+8	Jean	_	PROPN	_	_	_	_	_	_
+9	Paulhan	_	PROPN	_	_	_	_	_	_
+10	sur	_	ADP	_	_	_	_	_	_
+11	la	_	DET	_	_	_	_	_	_
+12	sémantique	_	NOUN	_	_	_	_	_	_
+13	du	_	ADP	_	_	_	_	_	_
+14	proverbe	_	NOUN	_	_	_	_	_	_
+15	et	_	CCONJ	_	_	_	_	_	_
+16	c	_	DET	_	_	_	_	_	_
+17	'	_	PUNCT	_	_	_	_	_	_
+18	est	_	VERB	_	_	_	_	_	_
+19	lui	_	PRON	_	_	_	_	_	_
+20	qui	_	SCONJ	_	_	_	_	_	_
+21	découvrit	_	VERB	_	_	_	_	_	_
+22	Gustave	_	PROPN	_	_	_	_	_	_
+23	Guillaume	_	PROPN	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 14
+# text = Il a influencé aussi un certain nombre de linguistes étrangers.
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	Il	_	PRON	_	_	_	_	_	_
+2	a	_	AUX	_	_	_	_	_	_
+3	influencé	_	VERB	_	_	_	_	_	_
+4	aussi	_	ADV	_	_	_	_	_	_
+5	un	_	DET	_	_	_	_	_	_
+6	certain	_	ADJ	_	_	_	_	_	_
+7	nombre	_	NOUN	_	_	_	_	_	_
+8	de	_	ADP	_	_	_	_	_	_
+9	linguistes	_	NOUN	_	_	_	_	_	_
+10	étrangers	_	ADJ	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = 15
+# text = Il a également été le premier à identifier le phénomène de la grammaticalisation.
+ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	Il	_	PRON	_	_	_	_	_	_
+2	a	_	AUX	_	_	_	_	_	_
+3	également	_	ADV	_	_	_	_	_	_
+4	été	_	VERB	_	_	_	_	_	_
+5	le	_	DET	_	_	_	_	_	_
+6	premier	_	ADJ	_	_	_	_	_	_
+7	à	_	ADP	_	_	_	_	_	_
+8	identifier	_	VERB	_	_	_	_	_	_
+9	le	_	DET	_	_	_	_	_	_
+10	phénomène	_	NOUN	_	_	_	_	_	_
+11	de	_	ADP	_	_	_	_	_	_
+12	la	_	DET	_	_	_	_	_	_
+13	grammaticalisation	_	NOUN	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
