@@ -1,0 +1,17 @@
+<form action="/transliterator/" method="get" novalidate>
+	{% csrf_token %}
+	<p style="text-align: center">
+		<b>Transliterated text:</b>
+		<br><br>
+		<table border=0 align="center" cols="200" width="700">
+		  <tr>
+		   <td align="center">{{ translit }}</td>
+		  </tr>
+		</table>
+		<br><br>
+		<button type="submit">
+			Return
+		</button>
+	</p>
+</form>
+

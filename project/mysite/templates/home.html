@@ -1,0 +1,16 @@
+<form action="output/" method="post" novalidate autocomplete="off">
+ 	{% csrf_token %}
+	<table border=0 cellpadding=7 cellspacing=7 align=center>
+		{{ form }}
+	</table>
+	<p style="text-align: center">
+		<button type="submit">
+			Transliterate
+		</button>
+		<br><br>
+		<button type="reset">
+			Clear
+		</button>
+	</p>
+</form>
+
